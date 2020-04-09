@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CoronaMap
+
+  Created by Song on 06/04/20.
+  Copyright © 2020 Adriano Song. All rights reserved.
+*/
+
+"mapa.brazil.title" = "Mapa do corona Brasil";
+"mapa.brazil.last.update" = "Última atualização: %@";
+"mapa.brazil.tested" = "Testados: %@";
+"mapa.brazil.recovered" = "Recupeados: %@";
+"mapa.brazil.infected" = "Infectados: %@";
+"mapa.brazil.deceased" = "Mortos: %@";
+"mapa.brazil.your_state" = "Situação do seu estado: %@";
+"mapa.brazil.onboarding_finish" = "Terminar";
+"mapa.brazil.onboarding_text1" = "Aviso: este app é uma POC para acessar um serviço de consulta do mapa do coronavirus no Brasil";
+"mapa.brazil.onboarding_text2" = "Dados: os dados são informativos de consulta para saber como está o Brasil e seu estado";
+"mapa.brazil.onboarding_text3" = "Confirmação: aceite o uso da localização para poder ver os dados do Brasil e seu estado";
